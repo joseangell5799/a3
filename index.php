@@ -15,7 +15,7 @@
   <meta name="description" content="Discover Huckleberry Yum at 181 Mercer Street, NYC. Dedicated to Wild Mountain Huckleberry Preserves & Botanical Gastronomy and artisanal excellence.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=DM+Sans:ital,opsz,wght@0,9..40,300..700;1,9..40,300..700&family=JetBrains+Mono:wght@400;500&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700;800&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap">
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
@@ -46,19 +46,17 @@
   </div>
 </div>
 
-  <section class="hero" style="border-bottom:2px solid var(--accent-gold); padding:5.5rem 0;">
-    <div class="container" style="display:grid; grid-template-columns:1.1fr 0.9fr; gap:4rem; align-items:center;">
-      <div style="border-left:3px solid var(--accent-gold); padding-left:2.5rem;">
-        <span class="eyebrow">Wild Mountain Harvest &bull; Small-Batch Reserve</span>
-        <h1 style="font-size:3.1rem; line-height:1.2; margin-bottom:1.25rem;">Wild Mountain Huckleberry Preserves & Botanical Gastronomy</h1>
-        <p style="font-size:1.15rem; color:var(--text-secondary); margin-bottom:2rem; line-height:1.8;">Hand-foraged from subalpine mountain ridges, slow-simmered in hand-hammered copper kettles with whole cane crystals and Meyer lemon at 181 Mercer Street. Merging intense mountain berry tartness with unadulterated botanical complexity.</p>
-        <div style="display:flex; gap:1.25rem;">
-          <a href="services.html" class="btn-primary">Explore Berry Preserves</a>
-          <a href="contact.html" class="btn-secondary">Mountain Lineage</a>
-        </div>
+  <section class="hero" style="text-align:center; padding:5.5rem 0 4.5rem; background:radial-gradient(circle at 50% 10%, #222730 0%, #0e1013 80%);">
+    <div class="container" style="max-width:980px;">
+      <span class="eyebrow">Heritage Berry Orchard &bull; Small-Batch Reserve</span>
+      <h1 style="font-size:3.4rem; margin:0 auto 1.5rem; max-width:860px;">Artisanal Boysenberry Gastronomy & Handcrafted Preserves</h1>
+      <p style="font-size:1.15rem; color:var(--text-secondary); max-width:720px; margin:0 auto 2.25rem;">Harvested from heritage orchard boysenberries, slow-simmered in hand-hammered copper kettles with whole cane crystals at 181 Mercer Street. Merging the deep ruby sweetness of European raspberries with wild Pacific dewberries for unadulterated botanical complexity.</p>
+      <div style="display:flex; justify-content:center; gap:1.25rem; margin-bottom:3.5rem;">
+        <a href="services.html" class="btn-primary">Explore Berry Preserves</a>
+        <a href="about.html" class="btn-secondary">Orchard Heritage</a>
       </div>
-      <div>
-        <img src="assets/images/huckleberryyum_asset_1.jpg" alt="black bear diner january 2024 s" style="border-radius:var(--radius-md); width:100%; height:480px; object-fit:cover; border:1px solid var(--border-strong);">
+      <div style="border-radius:var(--radius-md); overflow:hidden; border:1px solid var(--border-subtle); box-shadow:0 20px 40px rgba(0,0,0,0.5);">
+        <img src="assets/images/huckleberryyum_asset_1.jpg" alt="PowWow Wild Berry echinacea IMG 7" style="width:100%; height:520px; object-fit:cover;">
       </div>
     </div>
   </section>
@@ -80,7 +78,7 @@
       </div>
       <div class="grid-3">
         <div class="card">
-          <img src="assets/images/huckleberryyum_asset_2.jpg" alt="blueberries in harvest season">
+          <img src="assets/images/huckleberryyum_asset_2.jpg" alt="PowWow Wild Berry echinacea IMG 7">
           <div class="card-body">
             <span class="eyebrow">Series I</span>
             <h3>Signature Atelier Edition</h3>
@@ -88,7 +86,7 @@
           </div>
         </div>
         <div class="card">
-          <img src="assets/images/huckleberryyum_asset_3.jpg" alt="borowka ameryka ska">
+          <img src="assets/images/huckleberryyum_asset_3.jpg" alt="2020 366 130 A Saskatoon Berry Pie">
           <div class="card-body">
             <span class="eyebrow">Series II</span>
             <h3>Curated Bespoke Commission</h3>
@@ -96,7 +94,7 @@
           </div>
         </div>
         <div class="card">
-          <img src="assets/images/huckleberryyum_asset_4.jpg" alt="eastern fruit 1912 20946664880">
+          <img src="assets/images/huckleberryyum_asset_4.jpg" alt="Alaska wild berries">
           <div class="card-body">
             <span class="eyebrow">Series III</span>
             <h3>Archival Vault Reserve</h3>
@@ -146,7 +144,7 @@
       </div>
       <div class="grid-2">
         <div class="card" style="display:grid; grid-template-columns:1fr 1fr; align-items:center;">
-          <img src="assets/images/huckleberryyum_asset_5.jpg" alt="evergreen huckleberry 5962818257" style="height:100%; object-fit:cover;">
+          <img src="assets/images/huckleberryyum_asset_5.jpg" alt="Archev ques Roy Berry retour de Rom" style="height:100%; object-fit:cover;">
           <div class="card-body">
             <span class="eyebrow">Craft Service</span>
             <h3>Bespoke Design Consultation</h3>
@@ -155,7 +153,7 @@
           </div>
         </div>
         <div class="card" style="display:grid; grid-template-columns:1fr 1fr; align-items:center;">
-          <img src="assets/images/huckleberryyum_asset_6.jpg" alt="green timbers pick the low hanging" style="height:100%; object-fit:cover;">
+          <img src="assets/images/huckleberryyum_asset_6.jpg" alt="Berry Pie 13363628823" style="height:100%; object-fit:cover;">
           <div class="card-body">
             <span class="eyebrow">Restoration</span>
             <h3>Archival Conservation</h3>
@@ -169,8 +167,8 @@
   <section class="section-pad" style="background:var(--bg-surface); border-top:1px solid var(--border-subtle); border-bottom:1px solid var(--border-subtle);">
     <div class="container" style="display:grid; grid-template-columns:1fr 1.1fr; gap:4rem; align-items:center;">
       <div style="display:grid; grid-template-columns:1fr 1fr; gap:1.5rem;">
-        <img src="assets/images/huckleberryyum_asset_7.jpg" alt="huckleberries mount stubby 1164" style="border-radius:var(--radius-md); height:280px; width:100%; object-fit:cover;">
-        <img src="assets/images/huckleberryyum_asset_8.jpg" alt="huckleberry 1" style="border-radius:var(--radius-md); height:280px; width:100%; object-fit:cover; margin-top:2rem;">
+        <img src="assets/images/huckleberryyum_asset_7.jpg" alt="Berry Pie 6939431063" style="border-radius:var(--radius-md); height:280px; width:100%; object-fit:cover;">
+        <img src="assets/images/huckleberryyum_asset_8.jpg" alt="Berry pie2" style="border-radius:var(--radius-md); height:280px; width:100%; object-fit:cover; margin-top:2rem;">
       </div>
       <div>
         <span class="eyebrow">The Atelier Chronicle</span>

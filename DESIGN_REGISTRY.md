@@ -1,9 +1,9 @@
 # DESIGN REGISTRY • HUCKLEBERRY YUM
 - **Domain:** `huckleberryyum`
 - **Category/Niche:** `Wild Mountain Huckleberry Preserves & Botanical Gastronomy`
-- **Design Archetype #4:** Neo-Classicist Guild & Roman Columnar
+- **Design Archetype #2:** Architectural Swiss Grid & Full-Width Panorama
 - **Header Style:** Sticky Blur Navigation with Brand Monogram & Sync Mobile Drawer
-- **Hero Style:** Classic Columnar
+- **Hero Style:** Centered Panorama
 - **Section Order (Homepage 10+ Sections):**
   1. Sticky Blur Header
   2. Hero Masthead
@@ -17,17 +17,17 @@
   10. Technical FAQ Preview Accordion
   11. Private Salon Consultation Call-to-Action
   12. Flagship Institutional Footer
-- **Grid Style:** roman_3grid
+- **Grid Style:** zigzag_alternating
 - **Palette Fingerprint:**
-  - Background: `#0a0d14`
-  - Surface: `#111622`
-  - Text Primary: `#f8fafc`
-  - Text Muted: `#8ca0b8`
-  - Accent Gold/Amber: `#dfb15b`
-  - Border Subtle: `#1e2638`
+  - Background: `#0e1013`
+  - Surface: `#181b20`
+  - Text Primary: `#ffffff`
+  - Text Muted: `#94a3b8`
+  - Accent Gold/Amber: `#e5a93b`
+  - Border Subtle: `#282d36`
 - **Typography:**
-  - Headings: `Bodoni Moda` (Google Fonts via `<link>`)
-  - Body: `DM Sans` (Google Fonts via `<link>`)
+  - Headings: `Cinzel` (Google Fonts via `<link>`)
+  - Body: `Inter` (Google Fonts via `<link>`)
   - Monospace Accent: `JetBrains Mono` (Google Fonts via `<link>`)
 - **Architecture:** Homepage index.php (the ONLY PHP page), All Secondary Pages .html, STRICT NO BLOG, 9 Core Pages, Calibrated 5-6 Line Legal Policies.
 - **Institutional Contact:** 181 Mercer Street, New York, NY 10012, United States | +1-888-777-5845 | Tag: `G-0LY0HY7L01`.

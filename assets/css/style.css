@@ -1,19 +1,19 @@
-/* Theme Stylesheet • Pure CSS Framework • Archetype: Neo-Classicist Guild & Roman Columnar */
+/* Theme Stylesheet • Pure CSS Framework • Archetype: Architectural Swiss Grid & Full-Width Panorama */
 :root {
-  --font-heading: 'Bodoni Moda', serif;
-  --font-body: 'DM Sans', sans-serif;
+  --font-heading: 'Cinzel', serif;
+  --font-body: 'Inter', sans-serif;
   --font-mono: 'JetBrains Mono', monospace;
-  --bg-primary: #0a0d14;
-  --bg-surface: #111622;
-  --bg-surface-elevated: #182030;
-  --text-primary: #f8fafc;
+  --bg-primary: #0e1013;
+  --bg-surface: #181b20;
+  --bg-surface-elevated: #222730;
+  --text-primary: #ffffff;
   --text-secondary: #c5d0dc;
-  --text-muted: #8ca0b8;
-  --accent-gold: #dfb15b;
-  --border-subtle: #1e2638;
-  --border-strong: #dfb15b44;
-  --radius-sm: 2px;
-  --radius-md: 2px;
+  --text-muted: #94a3b8;
+  --accent-gold: #e5a93b;
+  --border-subtle: #282d36;
+  --border-strong: #e5a93b44;
+  --radius-sm: 8px;
+  --radius-md: 8px;
   --radius-lg: 16px;
   --max-width: 1240px;
 }
@@ -25,7 +25,7 @@ a:hover { color: var(--accent-gold); }
 .container { width: 100%; max-width: var(--max-width); margin: 0 auto; padding: 0 1.5rem; }
 
 /* Sticky Header */
-.site-header { position: sticky; top: 0; z-index: 1000; height: 76px; background: #0a0d14ee; backdrop-filter: blur(14px); border-bottom: 1px solid var(--border-subtle); display: flex; align-items: center; }
+.site-header { position: sticky; top: 0; z-index: 1000; height: 76px; background: #0e1013ee; backdrop-filter: blur(14px); border-bottom: 1px solid var(--border-subtle); display: flex; align-items: center; }
 .header-inner { display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; }
 .brand-logo { font-family: var(--font-heading); font-size: 1.35rem; font-weight: 700; letter-spacing: 0.06em; color: var(--text-primary); white-space: nowrap; }
 .nav-desktop { display: flex; gap: 1.8rem; list-style: none; align-items: center; }
