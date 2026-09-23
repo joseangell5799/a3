@@ -1,0 +1,207 @@
+{
+  "domain": "huckleberryyum",
+  "niche": "Wild Mountain Huckleberry Preserves & Botanical Gastronomy",
+  "design_concept": "Neo-Classicist Guild & Roman Columnar",
+  "archetype_id": "neoclassic_guild",
+  "pages": [
+    "index.php",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "huckleberryyum_asset_1.jpg",
+      "size_kb": 250.73,
+      "md5": "dfd6ec27aa68274046d559c051ab0644",
+      "description": "black bear diner january 2024 s",
+      "page": "index.php",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "huckleberryyum_asset_2.jpg",
+      "size_kb": 176.37,
+      "md5": "4cc57f3400184c928e361f0a6976390f",
+      "description": "blueberries in harvest season",
+      "page": "index.php",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "huckleberryyum_asset_3.jpg",
+      "size_kb": 188.55,
+      "md5": "38de79db0f27ffd88e61e9c4ff5db435",
+      "description": "borowka ameryka ska",
+      "page": "index.php",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "huckleberryyum_asset_4.jpg",
+      "size_kb": 66.0,
+      "md5": "90e15a301e7252eba6c198c80eec9caf",
+      "description": "eastern fruit 1912 20946664880",
+      "page": "index.php",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "huckleberryyum_asset_5.jpg",
+      "size_kb": 59.64,
+      "md5": "c6ab2b1e06d137f672d8a2a0da4c556f",
+      "description": "evergreen huckleberry 5962818257",
+      "page": "index.php",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "huckleberryyum_asset_6.jpg",
+      "size_kb": 101.29,
+      "md5": "d0e3c4a55b4e79fb7e53a788ef28d22e",
+      "description": "green timbers pick the low hanging",
+      "page": "index.php",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "huckleberryyum_asset_7.jpg",
+      "size_kb": 345.42,
+      "md5": "eecedda0ca44cff3120060c81ca6e452",
+      "description": "huckleberries mount stubby 1164",
+      "page": "index.php",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "huckleberryyum_asset_8.jpg",
+      "size_kb": 101.4,
+      "md5": "ba60af365eba60afab6cb17bbe732575",
+      "description": "huckleberry 1",
+      "page": "index.php",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "huckleberryyum_asset_9.jpg",
+      "size_kb": 352.7,
+      "md5": "67dc2e0308e11a13abb81de39d4383f4",
+      "description": "psm v48 d838 ohelo or hawaiian huck",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "huckleberryyum_asset_11.jpg",
+      "size_kb": 438.26,
+      "md5": "c719fb3c49cdf8fab8ff7ceb2f0deaa8",
+      "description": "cow parsnip evergreen huckleberry",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "huckleberryyum_asset_12.jpg",
+      "size_kb": 471.07,
+      "md5": "9b5228f8a3065f0002d0b78639af09fc",
+      "description": "elkhorn creek wild and scenic river",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "huckleberryyum_asset_13.jpg",
+      "size_kb": 129.97,
+      "md5": "21d6888436692d0d7cb627960a191740",
+      "description": "elkhorn creek wild and scenic river",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "huckleberryyum_asset_14.jpg",
+      "size_kb": 377.7,
+      "md5": "0ff55e3f7abf7d7fac9daca6cc0ad1ab",
+      "description": "evergreen huckleberry cow parsnip",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "huckleberryyum_asset_15.jpg",
+      "size_kb": 220.88,
+      "md5": "748b0ed167ebe0ecb493943cb6889690",
+      "description": "fool s huckleberry",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "huckleberryyum_asset_16.jpg",
+      "size_kb": 262.41,
+      "md5": "3187ebff30eecf0f5a483cbc0fd0e7a7",
+      "description": "huckleberries along the elk creek t",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "huckleberryyum_asset_17.jpg",
+      "size_kb": 349.94,
+      "md5": "ec0cd9f27ceafd5703b53cf0098cf0a7",
+      "description": "red huckleberry 0621",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "huckleberryyum_asset_18.jpg",
+      "size_kb": 337.3,
+      "md5": "f14317b8ebb714756fef74d6c0f7339e",
+      "description": "red huckleberry 5961",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "huckleberryyum_asset_19.jpg",
+      "size_kb": 320.81,
+      "md5": "c3dbab1256891b3dc9c1a11085040b65",
+      "description": "salmon wild and scenic river 38979",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "huckleberryyum_asset_20.jpg",
+      "size_kb": 183.33,
+      "md5": "dc4a0ef8cde585ce6b80920b9a6ea695",
+      "description": "the wild huckleberries of oregon an",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "huckleberryyum_asset_21.jpg",
+      "size_kb": 154.6,
+      "md5": "55e1459bd39ce2c9e19ccb3bf8af9f97",
+      "description": "close up of berries. 5220237fc4134",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://huckleberryyum.com/sitemap.xml",
+    "robots": "https://huckleberryyum.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
